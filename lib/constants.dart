@@ -7,3 +7,5 @@ const String khart = "assits_svgs/hart.svg";
 const String khome = "assits_svgs/home.svg";
 const String klogo = "assits_svgs/logo.svg";
 const String knotifications = "assits_svgs/notifications.svg";
+
+const String kmore = "assits_svgs/more.svg";
